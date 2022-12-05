@@ -1,0 +1,649 @@
+Code,Tile,Author,URL,Year
+FIC_1,Pride and Prejudice,"Austen, Jane",https://www.gutenberg.org/ebooks/1342,1998
+FIC_2,The Yellow Wallpaper,"Gilman, Charlotte Perkins",https://www.gutenberg.org/ebooks/1952,1999
+FAN_1,Alice's Adventures in Wonderland,"Carroll, Lewis",https://www.gutenberg.org/ebooks/11,1994
+FIC_3,"Frankenstein; Or, The Modern Prometheus","Shelley, Mary Wollstonecraft",https://www.gutenberg.org/ebooks/84,2008
+FIC_4,Metamorphosis,"Kafka, Franz",https://www.gutenberg.org/ebooks/5200,2005
+FIC_5,Adventures of Huckleberry Finn,"Twain, Mark",https://www.gutenberg.org/ebooks/76,2006
+DRA_1,The Importance of Being Earnest: A Trivial Comedy for Serious People,"Wilde, Oscar",https://www.gutenberg.org/ebooks/844,2006
+FIC_6,The Adventures of Tom Sawyer,"Twain, Mark",https://www.gutenberg.org/ebooks/74,2006
+BIO_1,"Narrative of the Life of Frederick Douglass, an American Slave","Douglass, Frederick",https://www.gutenberg.org/ebooks/23,2006
+DRA_2,A Doll's House : a play,"Ibsen, Henrik",https://www.gutenberg.org/ebooks/2542,2001
+FIC_7,"Moby Dick; Or, The Whale","Melville, Herman",https://www.gutenberg.org/ebooks/2701,2001
+FIC_8,The Adventures of Sherlock Holmes,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/1661,1892
+FIC_9,Great Expectations,"Dickens, Charles",https://www.gutenberg.org/ebooks/1400,1998
+FIC_10,Ulysses,"Joyce, James",https://www.gutenberg.org/ebooks/4300,2003
+FIC_11,A Tale of Two Cities,"Dickens, Charles",https://www.gutenberg.org/ebooks/98,1994
+HUM_1,"A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick","Swift, Jonathan",https://www.gutenberg.org/ebooks/1080,1997
+FIC_12,Dracula,"Stoker, Bram",https://www.gutenberg.org/ebooks/345,2013
+SCI_1,The Prince,"Machiavelli, Niccolo",https://www.gutenberg.org/ebooks/1232,2006
+FIC_13,The Picture of Dorian Gray,"Wilde, Oscar",https://www.gutenberg.org/ebooks/174,2008
+FIC_14,War and Peace,"Tolstoy, Leo, graf",https://www.gutenberg.org/ebooks/2600,1870
+FIC_15,Emma,"Austen, Jane",https://www.gutenberg.org/ebooks/158,1994
+POE_1,Beowulf: An Anglo-Saxon Epic Poem,Unknown,https://www.gutenberg.org/ebooks/16328,2005
+FIC_16,Les Misérables,"Hugo, Victor",https://www.gutenberg.org/ebooks/135,2008
+FIC_17,Jane Eyre: An Autobiography,"Bronte, Charlotte",https://www.gutenberg.org/ebooks/1260,2007
+FIC_18,Dubliners,"Joyce, James",https://www.gutenberg.org/ebooks/2814,2001
+FIC_19,Sense and Sensibility,"Austen, Jane",https://www.gutenberg.org/ebooks/161,2008
+SCI_2,Leviathan,"Hobbes, Thomas",https://www.gutenberg.org/ebooks/3207,2002
+FIC_20,The Strange Case of Dr. Jekyll and Mr. Hyde,"Stevenson, Robert Louis",https://www.gutenberg.org/ebooks/42,1992
+FIC_21,Treasure Island,"Stevenson, Robert Louis",https://www.gutenberg.org/ebooks/120,2006
+FIC_22,Wuthering Heights,"Bronte, Emily",https://www.gutenberg.org/ebooks/768,2007
+FIC_23,Heart of Darkness,"Conrad, Joseph",https://www.gutenberg.org/ebooks/219,1995
+FIC_24,"The Count of Monte Cristo, Illustrated","Dumas, Alexandre",https://www.gutenberg.org/ebooks/1184,1998
+FIC_25,Gulliver's Travels into Several Remote Nations of the World,"Swift, Jonathan",https://www.gutenberg.org/ebooks/829,2009
+FIC_26,"The Awakening, and Selected Short Stories","Chopin, Kate",https://www.gutenberg.org/ebooks/160,2006
+FIC_27,Peter Pan,"Barrie, J. M. (James Matthew)",https://www.gutenberg.org/ebooks/16,1991
+FIC_28,Siddhartha,"Hesse, Hermann",https://www.gutenberg.org/ebooks/2500,2008
+SCI_3,The Republic,Plato,https://www.gutenberg.org/ebooks/1497,1998
+BIO_2,Autobiography of Benjamin Franklin,"Franklin, Benjamin",https://www.gutenberg.org/ebooks/20203,2006
+FIC_29,The Life and Adventures of Robinson Crusoe,"Defoe, Daniel",https://www.gutenberg.org/ebooks/521,2010
+ENG_1,"Songs of Innocence, and Songs of Experience","Blake, William",https://www.gutenberg.org/ebooks/1934,2008
+ENG_2,Essays of Michel de Montaigne — Complete,"Montaigne, Michel de",https://www.gutenberg.org/ebooks/3600,2006
+ENG_3,"The Divine Comedy by Dante, Illustrated",Dante Alighieri,https://www.gutenberg.org/ebooks/8800,2005
+FIC_30,A Christmas Carol in Prose; Being a Ghost Story of Christmas,"Dickens, Charles",https://www.gutenberg.org/ebooks/46,2004
+FIC_31,A Study in Scarlet,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/244,1995
+FIC_32,The Jungle Book,"Kipling, Rudyard",https://www.gutenberg.org/ebooks/236,2006
+FIC_33,Crime and Punishment,"Dostoyevsky, Fyodor",https://www.gutenberg.org/ebooks/2554,2006
+POE_2,The Iliad,Homer,https://www.gutenberg.org/ebooks/6130,2006
+PHI_1,Beyond Good and Evil,"Nietzsche, Friedrich Wilhelm",https://www.gutenberg.org/ebooks/4363,2003
+FIC_34,Candide,Voltaire,https://www.gutenberg.org/ebooks/19942,2006
+DRA_3,Pygmalion,"Shaw, Bernard",https://www.gutenberg.org/ebooks/3825,2003
+ENG_4,The Complete Works of William Shakespeare,"Shakespeare, William",https://www.gutenberg.org/ebooks/100,1994
+FIC_35,Oliver Twist,"Dickens, Charles",https://www.gutenberg.org/ebooks/730,1996
+FIC_36,Heart of Darkness,"Conrad, Joseph",https://www.gutenberg.org/ebooks/526,2006
+ENG_5,English Literature: Its History and Its Significance for the Life of the English-Speaking World,"Long, William J. (William Joseph)",https://www.gutenberg.org/ebooks/10609,2004
+FIC_37,An Occurrence at Owl Creek Bridge,"Bierce, Ambrose",https://www.gutenberg.org/ebooks/375,2008
+SCI_4,Second Treatise of Government,"Locke, John",https://www.gutenberg.org/ebooks/7370,2005
+BIB_1,The King James Version of the Bible,Unknown,https://www.gutenberg.org/ebooks/10,2011
+BIO_3,"My Secret Life, Volumes I. to III.: 1888 Edition",Anonymous,https://www.gutenberg.org/ebooks/30360,1888
+FIC_38,The Wonderful Wizard of Oz,"Baum, L. Frank (Lyman Frank)",https://www.gutenberg.org/ebooks/55,2008
+FIC_39,The Hound of the Baskervilles,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/2852,2001
+FIC_40,Three Men in a Boat,"Jerome, Jerome K. (Jerome Klapka)",https://www.gutenberg.org/ebooks/308,2010
+FAN_2,Through the Looking-Glass,"Carroll, Lewis",https://www.gutenberg.org/ebooks/12,1991
+FIC_41,The Time Machine,"Wells, H. G. (Herbert George)",https://www.gutenberg.org/ebooks/35,2004
+BIO_4,"The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African: Written By Himself","Equiano, Olaudah",https://www.gutenberg.org/ebooks/15399,2005
+FIC_42,The Jungle,"Sinclair, Upton",https://www.gutenberg.org/ebooks/140,2006
+BIO_5,"Walden, and On The Duty Of Civil Disobedience","Thoreau, Henry David",https://www.gutenberg.org/ebooks/205,1995
+FIC_43,Hard Times,"Dickens, Charles",https://www.gutenberg.org/ebooks/786,2013
+FIC_44,The Brothers Karamazov,"Dostoyevsky, Fyodor",https://www.gutenberg.org/ebooks/28054,2009
+ENG_6,Complete Original Short Stories of Guy De Maupassant,"Maupassant, Guy de",https://www.gutenberg.org/ebooks/3090,2004
+ENG_7,Practical Grammar and Composition,"Wood, Thomas",https://www.gutenberg.org/ebooks/22577,2007
+FIC_45,David Copperfield,"Dickens, Charles",https://www.gutenberg.org/ebooks/766,1996
+BIO_6,Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson,"Rowlandson, Mary White",https://www.gutenberg.org/ebooks/851,1997
+FIC_46,Uncle Tom's Cabin,"Stowe, Harriet Beecher",https://www.gutenberg.org/ebooks/203,1995
+FIC_47,The Legend of Sleepy Hollow,"Irving, Washington",https://www.gutenberg.org/ebooks/41,1992
+FIC_48,Around the World in Eighty Days,"Verne, Jules",https://www.gutenberg.org/ebooks/103,2008
+FIC_49,Anna Karenina,"Tolstoy, Leo, graf",https://www.gutenberg.org/ebooks/1399,1998
+FIC_50,The Mysterious Affair at Styles,"Christie, Agatha",https://www.gutenberg.org/ebooks/863,2008
+FIC_51,The Call of the Wild,"London, Jack",https://www.gutenberg.org/ebooks/215,2008
+FIC_52,Anne of Green Gables,"Montgomery, L. M. (Lucy Maud)",https://www.gutenberg.org/ebooks/45,1992
+FIC_53,Persuasion,"Austen, Jane",https://www.gutenberg.org/ebooks/105,2008
+FIC_54,Don Quixote,"Cervantes Saavedra, Miguel de",https://www.gutenberg.org/ebooks/996,2004
+PHI_2,Democracy and Education: An Introduction to the Philosophy of Education,"Dewey, John",https://www.gutenberg.org/ebooks/852,1997
+FIC_55,A Portrait of the Artist as a Young Man,"Joyce, James",https://www.gutenberg.org/ebooks/4217,2003
+DRA_4,The Tragical History of Doctor Faustus: From the Quarto of 1604,"Marlowe, Christopher",https://www.gutenberg.org/ebooks/779,1997
+FIC_56,Ethan Frome,"Wharton, Edith",https://www.gutenberg.org/ebooks/4517,2003
+POE_3,Paradise Lost,"Milton, John",https://www.gutenberg.org/ebooks/20,1991
+DRA_5,The Tragedy of Romeo and Juliet,"Shakespeare, William",https://www.gutenberg.org/ebooks/1112,1997
+CLA_1,Myths and Legends of Ancient Greece and Rome,"Berens, E. M.",https://www.gutenberg.org/ebooks/22381,2007
+SCI_5,Common Sense,"Paine, Thomas",https://www.gutenberg.org/ebooks/147,2008
+FIC_57,Northanger Abbey,"Austen, Jane",https://www.gutenberg.org/ebooks/121,1994
+FIC_58,The Scarlet Letter,"Hawthorne, Nathaniel",https://www.gutenberg.org/ebooks/33,1992
+SOC_1,The Communist Manifesto,"Engels, Friedrich",https://www.gutenberg.org/ebooks/61,2005
+FIC_59,The Turn of the Screw,"James, Henry",https://www.gutenberg.org/ebooks/209,1995
+DRA_6,Lysistrata,Aristophanes,https://www.gutenberg.org/ebooks/7700,2008
+AFR_1,The Souls of Black Folk,"Du Bois, W. E. B. (William Edward Burghardt)",https://www.gutenberg.org/ebooks/408,2008
+FIC_60,Madame Bovary,"Flaubert, Gustave",https://www.gutenberg.org/ebooks/2413,2006
+FIC_61,The Reign of Greed,"Rizal, Jose",https://www.gutenberg.org/ebooks/10676,2005
+DRA_7,Hedda Gabler,"Ibsen, Henrik",https://www.gutenberg.org/ebooks/4093,2003
+FIC_62,The Return of Sherlock Holmes,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/108,2007
+ART_1,Le Morte d'Arthur: Volume 1,"Malory, Thomas, Sir",https://www.gutenberg.org/ebooks/1251,1998
+FIC_1,The Works of Edgar Allan Poe — Volume 1,"Poe, Edgar Allan",https://www.gutenberg.org/ebooks/2147,2008
+POE_4,Don Juan,"Byron, George Gordon Byron, Baron",https://www.gutenberg.org/ebooks/21700,2007
+FIC_63,The War of the Worlds,"Wells, H. G. (Herbert George)",https://www.gutenberg.org/ebooks/36,1992
+FIC_64,Mansfield Park,"Austen, Jane",https://www.gutenberg.org/ebooks/141,1994
+FIC_65,Just So Stories,"Kipling, Rudyard",https://www.gutenberg.org/ebooks/2781,2004
+FIC_66,Middlemarch,"Eliot, George",https://www.gutenberg.org/ebooks/145,2008
+PHI_3,Thus Spake Zarathustra: A Book for All and None,"Nietzsche, Friedrich Wilhelm",https://www.gutenberg.org/ebooks/1998,1999
+BIO_1,"On the Origin of Species By Means of Natural Selection: Or, the Preservation of Favoured Races in the Struggle for Life","Darwin, Charles",https://www.gutenberg.org/ebooks/1228,1998
+DRA_8,Faust,"Goethe, Johann Wolfgang von",https://www.gutenberg.org/ebooks/14591,2005
+ECO_1,An Inquiry into the Nature and Causes of the Wealth of Nations,"Smith, Adam",https://www.gutenberg.org/ebooks/3300,2002
+FIC_2,The Tale of Peter Rabbit,"Potter, Beatrix",https://www.gutenberg.org/ebooks/14838,2005
+HAN_1,"The Ladies' Book of Etiquette, and Manual of Politeness: A Complete Hand Book for the Use of the Lady in Polite Society","Hartley, Florence",https://www.gutenberg.org/ebooks/35123,2011
+FIC_67,Little Women,"Alcott, Louisa May",https://www.gutenberg.org/ebooks/514,1996
+PHI_4,The Problems of Philosophy,"Russell, Bertrand",https://www.gutenberg.org/ebooks/5827,2004
+FIC_68,Bleak House,"Dickens, Charles",https://www.gutenberg.org/ebooks/1023,1997
+FIC_3,The Works of Edgar Allan Poe — Volume 2,"Poe, Edgar Allan",https://www.gutenberg.org/ebooks/2148,2008
+HUM_2,The Devil's Dictionary,"Bierce, Ambrose",https://www.gutenberg.org/ebooks/972,1911
+SCI_6,The Art of War,"Sunzi, active 6th century B.C.",https://www.gutenberg.org/ebooks/132,1994
+PHI_5,The Critique of Pure Reason,"Kant, Immanuel",https://www.gutenberg.org/ebooks/4280,2003
+FIC_69,"Memoirs Of Fanny Hill: A New and Genuine Edition from the Original Text (London, 1749)","Cleland, John",https://www.gutenberg.org/ebooks/25305,2008
+FIC_70,The Sign of the Four,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/2097,2000
+ENG_8,The Odyssey: Rendered into English prose for the use of those who cannot read the original,Homer,https://www.gutenberg.org/ebooks/1727,1999
+FIC_71,A Princess of Mars,"Burroughs, Edgar Rice",https://www.gutenberg.org/ebooks/62,2008
+MYT_1,Myths and Legends of China,"Werner, E. T. C. (Edward Theodore Chalmers)",https://www.gutenberg.org/ebooks/15250,2005
+FIC_72,The Three Musketeers,"Dumas, Alexandre",https://www.gutenberg.org/ebooks/1257,1998
+FIC_4,2 B R 0 2 B,"Vonnegut, Kurt",https://www.gutenberg.org/ebooks/21279,2007
+FIC_73,The Sorrows of Young Werther,"Goethe, Johann Wolfgang von",https://www.gutenberg.org/ebooks/2527,2001
+FIC_74,The Woman in White,"Collins, Wilkie",https://www.gutenberg.org/ebooks/583,1996
+FIC_75,Notes from the Underground,"Dostoyevsky, Fyodor",https://www.gutenberg.org/ebooks/600,1996
+FIC_76,The Memoirs of Sherlock Holmes,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/834,1997
+HIS_1,The History Of The Decline And Fall Of The Roman Empire: Table of Contents with links in the HTML file to the two; Project Gutenberg editions (12 volumes),"Gibbon, Edward",https://www.gutenberg.org/ebooks/25717,2008
+FIC_77,The Trial,"Kafka, Franz",https://www.gutenberg.org/ebooks/7849,2005
+DRA_9,"Hamlet, Prince of Denmark","Shakespeare, William",https://www.gutenberg.org/ebooks/1524,1603
+ENG_9,A Concise Dictionary of Middle English from A.D. 1150 to 1580,"Skeat, Walter W. (Walter William)",https://www.gutenberg.org/ebooks/10625,2004
+FIC_78,The Wind in the Willows,"Grahame, Kenneth",https://www.gutenberg.org/ebooks/289,1995
+FIC_79,Tess of the d'Urbervilles: A Pure Woman,"Hardy, Thomas",https://www.gutenberg.org/ebooks/110,1994
+DRA_10,Macbeth,"Shakespeare, William",https://www.gutenberg.org/ebooks/2264,1623
+ENG_10,The Elements of Style,"Strunk, William",https://www.gutenberg.org/ebooks/37134,2011
+DRA_11,An Ideal Husband,"Wilde, Oscar",https://www.gutenberg.org/ebooks/885,2009
+FIC_80,Don Quijote,"Cervantes Saavedra, Miguel de",https://www.gutenberg.org/ebooks/2000,1999
+FIC_81,The Prince and the Pauper,"Twain, Mark",https://www.gutenberg.org/ebooks/1837,2006
+FIC_82,North and South,"Gaskell, Elizabeth Cleghorn",https://www.gutenberg.org/ebooks/4276,2012
+POE_5,Childe Harold's Pilgrimage,"Byron, George Gordon Byron, Baron",https://www.gutenberg.org/ebooks/5131,2004
+ENG_11,Andersen's Fairy Tales,"Andersen, H. C. (Hans Christian)",https://www.gutenberg.org/ebooks/1597,1999
+DRA_1,Plays,"Glaspell, Susan",https://www.gutenberg.org/ebooks/10623,2004
+BIO_7,The Confessions of St. Augustine,"Augustine, Saint, Bishop of Hippo",https://www.gutenberg.org/ebooks/3296,2002
+FIC_83,Swann's Way,"Proust, Marcel",https://www.gutenberg.org/ebooks/7178,2009
+BIO_8,"Twelve Years a Slave: Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana","Northup, Solomon",https://www.gutenberg.org/ebooks/45631,2014
+DRA_12,The Sea-Gull,"Chekhov, Anton Pavlovich",https://www.gutenberg.org/ebooks/1754,2006
+FIC_84,The Secret Adversary,"Christie, Agatha",https://www.gutenberg.org/ebooks/1155,2008
+POE_6,"The vision of hell.: By Dante Alighieri.; Translated by Rev. Henry Francis Cary, M.A.; and illustrated with the seventy-five designs of Gustave Doré.",Dante Alighieri,https://www.gutenberg.org/ebooks/8789,2004
+FIC_85,Noli Me Tangere,"Rizal, Jose",https://www.gutenberg.org/ebooks/20228,2006
+FIC_86,The Castle of Otranto,"Walpole, Horace",https://www.gutenberg.org/ebooks/696,2012
+ENG_12,"Lyrical Ballads, With a Few Other Poems (1798)","Wordsworth, William",https://www.gutenberg.org/ebooks/9622,2006
+FIC_87,The Moonstone,"Collins, Wilkie",https://www.gutenberg.org/ebooks/155,2006
+FIC_5,The Fall of the House of Usher,"Poe, Edgar Allan",https://www.gutenberg.org/ebooks/932,1997
+FIC_88,The Age of Innocence,"Wharton, Edith",https://www.gutenberg.org/ebooks/541,1996
+POE_7,The Aeneid,Virgil,https://www.gutenberg.org/ebooks/228,2008
+FIC_89,"The Monkey's Paw: The Lady of the Barge and Others, Part 2.","Jacobs, W. W. (William Wymark)",https://www.gutenberg.org/ebooks/12122,2004
+FAN_3,Alice's Adventures in Wonderland,"Carroll, Lewis",https://www.gutenberg.org/ebooks/19033,2006
+FIC_90,The Secret Garden,"Burnett, Frances Hodgson",https://www.gutenberg.org/ebooks/113,2008
+HIS_2,The History of the Peloponnesian War,Thucydides,https://www.gutenberg.org/ebooks/7142,2004
+FIC_91,A Connecticut Yankee in King Arthur's Court,"Twain, Mark",https://www.gutenberg.org/ebooks/86,2006
+FIC_92,Carmilla,"Le Fanu, Joseph Sheridan",https://www.gutenberg.org/ebooks/10007,2003
+FIC_93,"Eve's Diary, Complete","Twain, Mark",https://www.gutenberg.org/ebooks/8525,2004
+FIC_94,Anthem,"Rand, Ayn",https://www.gutenberg.org/ebooks/1250,1998
+FIC_95,A Room with a View,"Forster, E. M. (Edward Morgan)",https://www.gutenberg.org/ebooks/2641,2001
+ENG_13,"The Divine Comedy by Dante, Illustrated, Paradise, Complete",Dante Alighieri,https://www.gutenberg.org/ebooks/8799,2004
+FIC_96,"Pamela, or Virtue Rewarded","Richardson, Samuel",https://www.gutenberg.org/ebooks/6124,2004
+FIC_97,This Side of Paradise,"Fitzgerald, F. Scott (Francis Scott)",https://www.gutenberg.org/ebooks/805,1997
+ENG_14,"The Happy Prince, and Other Tales","Wilde, Oscar",https://www.gutenberg.org/ebooks/902,2015
+ENG_15,An Essay on Man; Moral Essays and Satires,"Pope, Alexander",https://www.gutenberg.org/ebooks/2428,2007
+FIC_98,The Tragedy of Pudd'nhead Wilson,"Twain, Mark",https://www.gutenberg.org/ebooks/102,1994
+PHI_6,Symposium,Plato,https://www.gutenberg.org/ebooks/1600,1999
+DRA_13,Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone,Sophocles,https://www.gutenberg.org/ebooks/31,2006
+FIC_99,The Red Badge of Courage: An Episode of the American Civil War,"Crane, Stephen",https://www.gutenberg.org/ebooks/73,2008
+POE_8,"Divine Comedy, Longfellow's Translation, Hell",Dante Alighieri,https://www.gutenberg.org/ebooks/1001,1997
+DRA_14,Cyrano de Bergerac,"Rostand, Edmond",https://www.gutenberg.org/ebooks/1254,1998
+DRA_15,Hamlet,"Shakespeare, William",https://www.gutenberg.org/ebooks/2265,1603
+FIC_100,Maggie: A Girl of the Streets,"Crane, Stephen",https://www.gutenberg.org/ebooks/447,1996
+FIC_101,Twenty Thousand Leagues under the Sea,"Verne, Jules",https://www.gutenberg.org/ebooks/164,2008
+FIC_102,The King in Yellow,"Chambers, Robert W. (Robert William)",https://www.gutenberg.org/ebooks/8492,2005
+PHI_7,The World as Will and Idea (Vol. 1 of 3),"Schopenhauer, Arthur",https://www.gutenberg.org/ebooks/38427,2011
+HIS_3,The American Occupation of the Philippines 1898-1912,"Blount, James H. (James Henderson)",https://www.gutenberg.org/ebooks/36542,2011
+POE_9,"The Canterbury Tales, and Other Poems","Chaucer, Geoffrey",https://www.gutenberg.org/ebooks/2383,1475
+FIC_103,My Man Jeeves,"Wodehouse, P. G. (Pelham Grenville)",https://www.gutenberg.org/ebooks/8164,2005
+POE_10,"Spenser's The Faerie Queene, Book I","Spenser, Edmund",https://www.gutenberg.org/ebooks/15272,2005
+DRA_16,Mrs. Warren's Profession,"Shaw, Bernard",https://www.gutenberg.org/ebooks/1097,2006
+PHI_8,Pascal's Pensées,"Pascal, Blaise",https://www.gutenberg.org/ebooks/18269,2006
+FIC_104,Venus in Furs,"Sacher-Masoch, Leopold, Ritter von",https://www.gutenberg.org/ebooks/6852,2004
+ART_2,The Legends of King Arthur and His Knights,"Knowles, James, Sir",https://www.gutenberg.org/ebooks/12753,2004
+FIC_105,The Satyricon — Complete,Petronius Arbiter,https://www.gutenberg.org/ebooks/5225,2006
+FIC_106,"The Pilgrim's Progress from this world to that which is to come: Delivered under the similitude of a dream, by John Bunyan","Bunyan, John",https://www.gutenberg.org/ebooks/131,2008
+FIC_107,Kidnapped,"Stevenson, Robert Louis",https://www.gutenberg.org/ebooks/421,2006
+SCI_7,On War — Volume 1,"Clausewitz, Carl von",https://www.gutenberg.org/ebooks/1946,2006
+BIO_9,The Confessions of Jean Jacques Rousseau — Complete,"Rousseau, Jean-Jacques",https://www.gutenberg.org/ebooks/3913,2015
+FIC_108,Die Verwandlung,"Kafka, Franz",https://www.gutenberg.org/ebooks/22367,2007
+FIC_109,The Idiot,"Dostoyevsky, Fyodor",https://www.gutenberg.org/ebooks/2638,2001
+FIC_110,The Strange Case of Dr. Jekyll and Mr. Hyde,"Stevenson, Robert Louis",https://www.gutenberg.org/ebooks/43,1992
+FIC_111,The Lost World,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/139,2008
+BIO_10,Life on the Mississippi,"Twain, Mark",https://www.gutenberg.org/ebooks/245,2006
+FIC_112,The Decameron of Giovanni Boccaccio,"Boccaccio, Giovanni",https://www.gutenberg.org/ebooks/23700,2007
+HIS_4,A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects,"Wollstonecraft, Mary",https://www.gutenberg.org/ebooks/3420,2002
+FIC_113,Tarzan of the Apes,"Burroughs, Edgar Rice",https://www.gutenberg.org/ebooks/78,2008
+DRA_17,Uncle Vanya: Scenes from Country Life in Four Acts,"Chekhov, Anton Pavlovich",https://www.gutenberg.org/ebooks/1756,1999
+FIC_114,The Social Cancer: A Complete English Version of Noli Me Tangere,"Rizal, Jose",https://www.gutenberg.org/ebooks/6737,2007
+FIC_115,Gargantua and Pantagruel,"Rabelais, Francois",https://www.gutenberg.org/ebooks/1200,2004
+FIC_116,"The Life and Opinions of Tristram Shandy, Gentleman","Sterne, Laurence",https://www.gutenberg.org/ebooks/1079,1997
+POE_11,The Ladies Delight,Anonymous,https://www.gutenberg.org/ebooks/14005,2004
+BIO_11,"The Lives of the Twelve Caesars, Complete",Suetonius,https://www.gutenberg.org/ebooks/6400,2006
+FIC_117,Second Variety,"Dick, Philip K.",https://www.gutenberg.org/ebooks/32032,2010
+PHI_9,The Consolation of Philosophy,Boethius,https://www.gutenberg.org/ebooks/14328,2004
+POE_12,The Poetics of Aristotle,Aristotle,https://www.gutenberg.org/ebooks/1974,1999
+ENG_16,Ghosts,"Ibsen, Henrik",https://www.gutenberg.org/ebooks/8121,2005
+FIC_118,Struwwelpeter: Merry Stories and Funny Pictures,"Hoffmann, Heinrich",https://www.gutenberg.org/ebooks/12116,2004
+FIC_119,Youth,"Asimov, Isaac",https://www.gutenberg.org/ebooks/31547,2010
+FIC_120,Plain Tales from the Hills,"Kipling, Rudyard",https://www.gutenberg.org/ebooks/1858,1999
+FIC_121,The Invisible Man: A Grotesque Romance,"Wells, H. G. (Herbert George)",https://www.gutenberg.org/ebooks/5230,2004
+FIC_122,Beasts and Super-Beasts,Saki,https://www.gutenberg.org/ebooks/269,2011
+FIC_123,A Journey to the Centre of the Earth,"Verne, Jules",https://www.gutenberg.org/ebooks/18857,2006
+FIC_124,Ivanhoe: A Romance,"Scott, Walter",https://www.gutenberg.org/ebooks/82,1993
+FIC_125,Notre-Dame De Paris,"Hugo, Victor",https://www.gutenberg.org/ebooks/2610,2001
+FIC_126,The Valley of Fear,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/3289,2002
+FIC_127,The Island of Doctor Moreau,"Wells, H. G. (Herbert George)",https://www.gutenberg.org/ebooks/159,2004
+FAN_4,Alice's Adventures in Wonderland: Illustrated by Arthur Rackham. With a Proem by Austin Dobson,"Carroll, Lewis",https://www.gutenberg.org/ebooks/28885,2009
+FIC_128,The Last of the Mohicans; A narrative of 1757,"Cooper, James Fenimore",https://www.gutenberg.org/ebooks/940,2006
+FIC_6,The Adventures of Pinocchio,"Collodi, Carlo",https://www.gutenberg.org/ebooks/500,2006
+ENG_17,"The Spectator, Volumes 1, 2 and 3: With Translations and Index for the Series","Steele, Richard, Sir",https://www.gutenberg.org/ebooks/12030,2004
+FIC_129,The Jungle Book,"Kipling, Rudyard",https://www.gutenberg.org/ebooks/35997,2011
+ENG_18,Aesop's Fables; a new translation,Aesop,https://www.gutenberg.org/ebooks/11339,2004
+POE_13,"Chaucer's Works, Volume 4 (of 7) — The Canterbury Tales","Chaucer, Geoffrey",https://www.gutenberg.org/ebooks/22120,2007
+FIC_130,White Fang,"London, Jack",https://www.gutenberg.org/ebooks/910,2005
+FIC_131,"Mosses from an Old Manse, and Other Stories","Hawthorne, Nathaniel",https://www.gutenberg.org/ebooks/512,1996
+FIC_132,The Mayor of Casterbridge,"Hardy, Thomas",https://www.gutenberg.org/ebooks/143,2007
+POE_14,The Waste Land,"Eliot, T. S. (Thomas Stearns)",https://www.gutenberg.org/ebooks/1321,1922
+FIC_133,My Antonia,"Cather, Willa",https://www.gutenberg.org/ebooks/242,2008
+PHI_10,Apology,Plato,https://www.gutenberg.org/ebooks/1656,1999
+FIC_134,"Bartleby, the Scrivener: A Story of Wall-Street","Melville, Herman",https://www.gutenberg.org/ebooks/11231,2004
+FIC_135,Far from the Madding Crowd,"Hardy, Thomas",https://www.gutenberg.org/ebooks/27,1992
+HIS_5,History of the Decline and Fall of the Roman Empire — Volume 1,"Gibbon, Edward",https://www.gutenberg.org/ebooks/731,1996
+FIC_136,The Lady with the Dog and Other Stories,"Chekhov, Anton Pavlovich",https://www.gutenberg.org/ebooks/13415,2004
+FIC_137,The Secret Agent: A Simple Tale,"Conrad, Joseph",https://www.gutenberg.org/ebooks/974,2010
+FAN_5,The Raven,"Poe, Edgar Allan",https://www.gutenberg.org/ebooks/17192,2005
+ENG_19,The Iliad,Homer,https://www.gutenberg.org/ebooks/2199,2000
+FIC_138,"The Mysterious Stranger, and Other Stories","Twain, Mark",https://www.gutenberg.org/ebooks/3186,2006
+POE_15,Biographia Literaria,"Coleridge, Samuel Taylor",https://www.gutenberg.org/ebooks/6081,2004
+BIO_12,"Incidents in the Life of a Slave Girl, Written by Herself","Jacobs, Harriet A. (Harriet Ann)",https://www.gutenberg.org/ebooks/11030,2004
+FIC_139,The Pickwick Papers,"Dickens, Charles",https://www.gutenberg.org/ebooks/580,1837
+FIC_140,The House of Mirth,"Wharton, Edith",https://www.gutenberg.org/ebooks/284,2008
+FIC_141,A Little Princess: Being the whole story of Sara Crewe now told for the first time,"Burnett, Frances Hodgson",https://www.gutenberg.org/ebooks/146,2008
+FIC_142,Women in Love,"Lawrence, D. H. (David Herbert)",https://www.gutenberg.org/ebooks/4240,2003
+DRA_18,An Enemy of the People,"Ibsen, Henrik",https://www.gutenberg.org/ebooks/2446,2000
+ENG_20,Best Russian Short Stories,Unknown,https://www.gutenberg.org/ebooks/13437,2004
+DRA_19,Faust: Der Tragödie erster Teil,"Goethe, Johann Wolfgang von",https://www.gutenberg.org/ebooks/2229,2000
+FIC_143,The Thirty-Nine Steps,"Buchan, John",https://www.gutenberg.org/ebooks/558,1996
+ENG_21,Webster's Unabridged Dictionary,Various,https://www.gutenberg.org/ebooks/29765,2009
+FIC_144,"The History of Don Quixote, Volume 1, Complete","Cervantes Saavedra, Miguel de",https://www.gutenberg.org/ebooks/5921,2004
+FIC_145,"Right Ho, Jeeves","Wodehouse, P. G. (Pelham Grenville)",https://www.gutenberg.org/ebooks/10554,2007
+FIC_146,Silas Marner,"Eliot, George",https://www.gutenberg.org/ebooks/550,1996
+FIC_147,The Vampyre; a Tale,"Polidori, John William",https://www.gutenberg.org/ebooks/6087,2004
+BIB_2,"The Doré Bible Gallery, Complete: Containing One Hundred Superb Illustrations, and a Page of Explanatory Letter-press Facing Each",Unknown,https://www.gutenberg.org/ebooks/8710,2004
+FIC_148,The Innocence of Father Brown,"Chesterton, G. K. (Gilbert Keith)",https://www.gutenberg.org/ebooks/204,2008
+FIC_149,Kim,"Kipling, Rudyard",https://www.gutenberg.org/ebooks/2226,2000
+BIO_13,My Bondage and My Freedom,"Douglass, Frederick",https://www.gutenberg.org/ebooks/202,2008
+FIC_7,Black Beauty,"Sewell, Anna",https://www.gutenberg.org/ebooks/271,2006
+SCI_8,A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind,"Rousseau, Jean-Jacques",https://www.gutenberg.org/ebooks/11136,2004
+DRA_20,The Middle-Class Gentleman,Moliere,https://www.gutenberg.org/ebooks/2992,2001
+DRA_21,The Alchemist,"Jonson, Ben",https://www.gutenberg.org/ebooks/4081,2003
+ENG_22,Poems,"Hugo, Victor",https://www.gutenberg.org/ebooks/8775,2005
+ENG_23,The Rape of the Lock and Other Poems,"Pope, Alexander",https://www.gutenberg.org/ebooks/9800,2006
+ENG_24,Aesop's Fables: Translated by George Fyler Townsend,Aesop,https://www.gutenberg.org/ebooks/21,1991
+BIO_14,"The Story of My Life: With her letters (1887-1901) and a supplementary account of her education, including passages from the reports and letters of her teacher, Anne Mansfield Sullivan, by John Albert Macy","Keller, Helen",https://www.gutenberg.org/ebooks/2397,2000
+FIC_150,The Scarlet Pimpernel,"Orczy, Emmuska Orczy, Baroness",https://www.gutenberg.org/ebooks/60,2006
+ENG_25,The Poems and Prose Poems of Charles Baudelaire: with an Introductory Preface by James Huneker,"Baudelaire, Charles",https://www.gutenberg.org/ebooks/36287,2011
+POE_16,The Rime of the Ancient Mariner,"Coleridge, Samuel Taylor",https://www.gutenberg.org/ebooks/151,2006
+HIS_6,The Frontier in American History,"Turner, Frederick Jackson",https://www.gutenberg.org/ebooks/22994,2007
+FIC_151,Moby Dick,"Melville, Herman",https://www.gutenberg.org/ebooks/15,1991
+FIC_152,Buddenbrooks: Verfall einer Familie,"Mann, Thomas",https://www.gutenberg.org/ebooks/34811,2011
+FIC_153,A Little Journey,"Bradbury, Ray",https://www.gutenberg.org/ebooks/51171,2016
+FIC_154,Vanity Fair,"Thackeray, William Makepeace",https://www.gutenberg.org/ebooks/599,1996
+BIO_15,Autobiography of a Yogi,"Yogananda, Paramahansa",https://www.gutenberg.org/ebooks/7452,2005
+FIC_8,The Works of Edgar Allan Poe — Volume 3,"Poe, Edgar Allan",https://www.gutenberg.org/ebooks/2149,2008
+FIC_155,Daisy Miller: A Study,"James, Henry",https://www.gutenberg.org/ebooks/208,2008
+FIC_156,Peter and Wendy,"Barrie, J. M. (James Matthew)",https://www.gutenberg.org/ebooks/26654,2008
+BIO_16,"Personal Memoirs of U. S. Grant, Complete","Grant, Ulysses S. (Ulysses Simpson)",https://www.gutenberg.org/ebooks/4367,2006
+BIB_3,"The Black Man, the Father of Civilization, Proven by Biblical History","Webb, James Morris",https://www.gutenberg.org/ebooks/39509,2012
+BIO_17,Confessions of an English Opium-Eater,"De Quincey, Thomas",https://www.gutenberg.org/ebooks/2040,2005
+PHI_11,The Antichrist,"Nietzsche, Friedrich Wilhelm",https://www.gutenberg.org/ebooks/19322,2006
+FIC_157,The Phantom of the Opera,"Leroux, Gaston",https://www.gutenberg.org/ebooks/175,2008
+PHI_12,The Varieties of Religious Experience: A Study in Human Nature,"James, William",https://www.gutenberg.org/ebooks/621,2014
+FIC_158,She,"Haggard, H. Rider (Henry Rider)",https://www.gutenberg.org/ebooks/3155,2006
+ENG_26,1811 Dictionary of the Vulgar Tongue,"Grose, Francis",https://www.gutenberg.org/ebooks/5402,2004
+POE_17,Poems,"Eliot, T. S. (Thomas Stearns)",https://www.gutenberg.org/ebooks/1567,1998
+HIS_7,"The Wars of the Jews; Or, The History of the Destruction of Jerusalem","Josephus, Flavius",https://www.gutenberg.org/ebooks/2850,2009
+BIO_2,"The Origin of Species by Means of Natural Selection: Or, the Preservation of Favoured Races in the Struggle for Life, 6th Edition","Darwin, Charles",https://www.gutenberg.org/ebooks/2009,1999
+DRA_22,The Tempest: The Works of William Shakespeare [Cambridge Edition] [9 vols.],"Shakespeare, William",https://www.gutenberg.org/ebooks/23042,2007
+POE_18,On the Nature of Things,"Lucretius Carus, Titus",https://www.gutenberg.org/ebooks/785,1997
+FIC_159,Pride and Prejudice,"Austen, Jane",https://www.gutenberg.org/ebooks/42671,2013
+DRA_23,Medea of Euripides,Euripides,https://www.gutenberg.org/ebooks/35451,2011
+DRA_24,"Volpone; Or, The Fox","Jonson, Ben",https://www.gutenberg.org/ebooks/4039,2003
+BIO_18,"The life of Midhat Pasha; a record of his services, political reforms, banishment, and judicial murder",Ali Haydar Mithat,https://www.gutenberg.org/ebooks/51243,2016
+DRA_25,Othello,"Shakespeare, William",https://www.gutenberg.org/ebooks/2267,1622
+FIC_160,"The Mantle, and Other Stories","Gogol, Nikolai Vasilevich",https://www.gutenberg.org/ebooks/36238,2011
+SCI_9,Gorgias,Plato,https://www.gutenberg.org/ebooks/1672,1999
+DRA_26,The Playboy of the Western World: A Comedy in Three Acts,"Synge, J. M. (John Millington)",https://www.gutenberg.org/ebooks/1240,1998
+PHI_13,Phaedo,Plato,https://www.gutenberg.org/ebooks/1658,1999
+FIC_161,Der Tod in Venedig,"Mann, Thomas",https://www.gutenberg.org/ebooks/12108,2004
+FIC_162,Our Mutual Friend,"Dickens, Charles",https://www.gutenberg.org/ebooks/883,2006
+HAN_2,"Boy Scouts Handbook: The First Edition, 1911",Boy Scouts of America,https://www.gutenberg.org/ebooks/29558,2009
+FIC_9,The Great God Pan,"Machen, Arthur",https://www.gutenberg.org/ebooks/389,1996
+SCI_10,The Writings of Thomas Paine — Volume 4 (1794-1796): The Age of Reason,"Paine, Thomas",https://www.gutenberg.org/ebooks/3743,2003
+SCI_11,"The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12)","Burke, Edmund",https://www.gutenberg.org/ebooks/15043,2005
+FIC_163,The Man Who Was Thursday: A Nightmare,"Chesterton, G. K. (Gilbert Keith)",https://www.gutenberg.org/ebooks/1695,1999
+DRA_27,A Woman of No Importance,"Wilde, Oscar",https://www.gutenberg.org/ebooks/854,2014
+HIS_8,The History of Herodotus — Volume 1,Herodotus,https://www.gutenberg.org/ebooks/2707,2001
+DRA_28,Arms and the Man,"Shaw, Bernard",https://www.gutenberg.org/ebooks/3618,2003
+SCI_12,The Republic,Plato,https://www.gutenberg.org/ebooks/150,2008
+ENG_27,"Plays by Anton Chekhov, Second Series","Chekhov, Anton Pavlovich",https://www.gutenberg.org/ebooks/7986,2005
+DRA_29,The Duchess of Malfi,"Webster, John",https://www.gutenberg.org/ebooks/2232,2000
+FIC_10,The Eyes Have It,"Dick, Philip K.",https://www.gutenberg.org/ebooks/31516,2010
+FIC_164,King Solomon's Mines,"Haggard, H. Rider (Henry Rider)",https://www.gutenberg.org/ebooks/2166,2005
+FAN_6,Beyond the Door,"Dick, Philip K.",https://www.gutenberg.org/ebooks/28644,2009
+FIC_165,"What Men Live By, and Other Tales","Tolstoy, Leo, graf",https://www.gutenberg.org/ebooks/6157,2004
+FIC_166,Der Struwwelpeter: oder lustige Geschichten und drollige Bilder,"Hoffmann, Heinrich",https://www.gutenberg.org/ebooks/24571,2008
+FIC_167,The Possessed (The Devils),"Dostoyevsky, Fyodor",https://www.gutenberg.org/ebooks/8117,2005
+FIC_168,The Secret Garden,"Burnett, Frances Hodgson",https://www.gutenberg.org/ebooks/17396,2005
+HIS_9,"The Journals of Lewis and Clark, 1804-1806","Clark, William",https://www.gutenberg.org/ebooks/8419,2005
+FIC_169,The Iron Heel,"London, Jack",https://www.gutenberg.org/ebooks/1164,2006
+FIC_170,A Journal of the Plague Year: Written by a Citizen Who Continued All the While in London,"Defoe, Daniel",https://www.gutenberg.org/ebooks/376,2006
+PHI_14,"Bushido, the Soul of Japan","Nitobe, Inazo",https://www.gutenberg.org/ebooks/12096,2004
+FIC_171,Anne of the Island,"Montgomery, L. M. (Lucy Maud)",https://www.gutenberg.org/ebooks/51,2006
+FIC_172,Villette,"Bronte, Charlotte",https://www.gutenberg.org/ebooks/9182,2005
+ENG_28,The Poetical Works of William Wordsworth — Volume 3,"Wordsworth, William",https://www.gutenberg.org/ebooks/12383,2004
+FIC_173,The Mysterious Island,"Verne, Jules",https://www.gutenberg.org/ebooks/1268,1998
+FIC_174,The Canterville Ghost,"Wilde, Oscar",https://www.gutenberg.org/ebooks/14522,2004
+FIC_175,The Man in the Iron Mask,"Dumas, Alexandre",https://www.gutenberg.org/ebooks/2759,2001
+POE_19,Poems and Songs of Robert Burns,"Burns, Robert",https://www.gutenberg.org/ebooks/1279,2005
+FIC_176,The Gilded Age: A Tale of Today,"Twain, Mark",https://www.gutenberg.org/ebooks/3178,1873
+FIC_177,The House of the Seven Gables,"Hawthorne, Nathaniel",https://www.gutenberg.org/ebooks/77,2008
+FIC_178,"Life in the Iron-Mills; Or, The Korl Woman","Davis, Rebecca Harding",https://www.gutenberg.org/ebooks/876,1997
+FIC_179,Anne of Avonlea,"Montgomery, L. M. (Lucy Maud)",https://www.gutenberg.org/ebooks/47,2006
+FIC_180,The Monk: A Romance,"Lewis, M. G. (Matthew Gregory)",https://www.gutenberg.org/ebooks/601,1996
+HIS_10,"Historia de Venezuela, Tomo I","Aguado, Pedro de, active 16th century",https://www.gutenberg.org/ebooks/39947,2012
+PHI_15,Also sprach Zarathustra: Ein Buch für Alle und Keinen,"Nietzsche, Friedrich Wilhelm",https://www.gutenberg.org/ebooks/7205,2005
+HIS_11,The Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States,"Wells-Barnett, Ida B.",https://www.gutenberg.org/ebooks/14977,2005
+PHI_16,The Elementary Forms of the Religious Life,"Durkheim, Emile",https://www.gutenberg.org/ebooks/41360,2012
+FIC_11,The Works of Edgar Allan Poe — Volume 5,"Poe, Edgar Allan",https://www.gutenberg.org/ebooks/2151,2008
+POE_20,Paradise Lost,"Milton, John",https://www.gutenberg.org/ebooks/26,1992
+FIC_181,The Grand Inquisitor,"Dostoyevsky, Fyodor",https://www.gutenberg.org/ebooks/8578,2005
+BIO_19,My Life and Work,"Ford, Henry",https://www.gutenberg.org/ebooks/7213,2005
+FIC_182,Siddhartha: eine indische Dichtung,"Hesse, Hermann",https://www.gutenberg.org/ebooks/2499,2001
+FIC_183,The Portrait of a Lady — Volume 1,"James, Henry",https://www.gutenberg.org/ebooks/2833,2001
+FIC_184,Lord of the World,"Benson, Robert Hugh",https://www.gutenberg.org/ebooks/14021,2004
+PHI_17,Nature,"Emerson, Ralph Waldo",https://www.gutenberg.org/ebooks/29433,2009
+PHI_18,Fundamental Principles of the Metaphysic of Morals,"Kant, Immanuel",https://www.gutenberg.org/ebooks/5682,2004
+FIC_185,The Shunned House,"Lovecraft, H. P. (Howard Phillips)",https://www.gutenberg.org/ebooks/31469,2010
+BIO_20,Up from Slavery: An Autobiography,"Washington, Booker T.",https://www.gutenberg.org/ebooks/2376,2000
+BIO_21,"The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete","Casanova, Giacomo",https://www.gutenberg.org/ebooks/2981,2006
+FIC_186,A Tramp Abroad,"Twain, Mark",https://www.gutenberg.org/ebooks/119,2004
+ENG_29,Letters of Pliny,"Pliny, the Younger",https://www.gutenberg.org/ebooks/2811,2001
+ENG_30,Erotica Romana,"Goethe, Johann Wolfgang von",https://www.gutenberg.org/ebooks/7889,2005
+FIC_187,"History of Tom Jones, a Foundling","Fielding, Henry",https://www.gutenberg.org/ebooks/6593,2004
+FIC_188,Little Dorrit,"Dickens, Charles",https://www.gutenberg.org/ebooks/963,1997
+FIC_189,The Railway Children,"Nesbit, E. (Edith)",https://www.gutenberg.org/ebooks/1874,1999
+FIC_190,The Beast in the Jungle,"James, Henry",https://www.gutenberg.org/ebooks/1093,2005
+BIO_22,The Autobiography of Benjamin Franklin,"Franklin, Benjamin",https://www.gutenberg.org/ebooks/148,2008
+SCI_13,Politics: A Treatise on Government,Aristotle,https://www.gutenberg.org/ebooks/6762,2004
+FIC_12,Little Black Sambo,"Bannerman, Helen",https://www.gutenberg.org/ebooks/17824,2006
+POE_21,"The Metamorphoses of Ovid, Books I-VII",Ovid,https://www.gutenberg.org/ebooks/21765,2007
+FIC_191,The Man That Corrupted Hadleyburg,"Twain, Mark",https://www.gutenberg.org/ebooks/1213,2005
+HIS_12,The Anglo-Saxon Chronicle,Unknown,https://www.gutenberg.org/ebooks/657,1996
+HIS_13,The Travels of Marco Polo — Volume 1,Rustichello of Pisa,https://www.gutenberg.org/ebooks/10636,2004
+FIC_192,Herland,"Gilman, Charlotte Perkins",https://www.gutenberg.org/ebooks/32,1992
+AFR_2,Darkwater: Voices from Within the Veil,"Du Bois, W. E. B. (William Edward Burghardt)",https://www.gutenberg.org/ebooks/15210,2005
+ENG_31,Poems Every Child Should Know: The What-Every-Child-Should-Know-Library,Unknown,https://www.gutenberg.org/ebooks/16436,2005
+HIS_14,"The History of the Highland Clearances: Second Edition, Altered and Revised","Mackenzie, Alexander",https://www.gutenberg.org/ebooks/51271,2016
+POE_22,"The Rámáyan of Válmíki, translated into English verse",Valmiki,https://www.gutenberg.org/ebooks/24869,2008
+FIC_193,Father Goriot,"Balzac, Honore de",https://www.gutenberg.org/ebooks/1237,1998
+ART_3,Le Morte d'Arthur: Volume 2,"Malory, Thomas, Sir",https://www.gutenberg.org/ebooks/1252,1998
+DRA_30,Lady Windermere's Fan,"Wilde, Oscar",https://www.gutenberg.org/ebooks/790,2014
+ENG_32,Shakespeare's Sonnets,"Shakespeare, William",https://www.gutenberg.org/ebooks/1041,1997
+BIO_23,"The Underground Railroad: A Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author.","Still, William",https://www.gutenberg.org/ebooks/15263,2005
+FIC_194,Nicholas Nickleby,"Dickens, Charles",https://www.gutenberg.org/ebooks/967,2006
+FIC_195,Jude the Obscure,"Hardy, Thomas",https://www.gutenberg.org/ebooks/153,1994
+FIC_196,Daddy-Long-Legs,"Webster, Jean",https://www.gutenberg.org/ebooks/157,2008
+FIC_197,The Tenant of Wildfell Hall,"Bronte, Anne",https://www.gutenberg.org/ebooks/969,2010
+ENG_33,"Fifteen Thousand Useful Phrases: A Practical Handbook Of Pertinent Expressions, Striking Similes, Literary, Commercial, Conversational, And Oratorical Terms, For The Embellishment Of Speech And Literature, And The Improvement Of The Vocabulary Of Those Persons Who Read, Write, And Speak English","Kleiser, Grenville",https://www.gutenberg.org/ebooks/18362,2006
+FIC_198,The Man Who Would Be King,"Kipling, Rudyard",https://www.gutenberg.org/ebooks/8147,2005
+DRA_31,The Tragedy of Macbeth,"Shakespeare, William",https://www.gutenberg.org/ebooks/1129,1623
+BIO_24,"Boswell's Life of Johnson: Abridged and edited, with an introduction by Charles Grosvenor Osgood","Boswell, James",https://www.gutenberg.org/ebooks/1564,2006
+ENG_34,Sonnets from the Portuguese,"Browning, Elizabeth Barrett",https://www.gutenberg.org/ebooks/2002,2004
+PHI_19,Essays of Schopenhauer,"Schopenhauer, Arthur",https://www.gutenberg.org/ebooks/11945,2004
+DRA_32,A Midsummer Night's Dream,"Shakespeare, William",https://www.gutenberg.org/ebooks/2242,1600
+DRA_33,The Tragedy of Julius Caesar,"Shakespeare, William",https://www.gutenberg.org/ebooks/1120,1623
+BIO_25,Memoirs of Napoleon Bonaparte — Complete,"Bourrienne, Louis Antoine Fauvelet de",https://www.gutenberg.org/ebooks/3567,2006
+ENG_35,Cautionary Tales for Children,"Belloc, Hilaire",https://www.gutenberg.org/ebooks/27424,2008
+ENG_36,The Book of Household Management,"Beeton, Mrs. (Isabella Mary)",https://www.gutenberg.org/ebooks/10136,2003
+FIC_13,The Story of Doctor Dolittle,"Lofting, Hugh",https://www.gutenberg.org/ebooks/501,1996
+SCI_14,"Cicero's Tusculan Disputations: Also, Treatises On The Nature Of The Gods, And On The Commonwealth","Cicero, Marcus Tullius",https://www.gutenberg.org/ebooks/14988,2005
+ART_4,Sir Gawayne and the Green Knight: An Alliterative Romance-Poem (c. 1360 A.D.),Unknown,https://www.gutenberg.org/ebooks/14568,2005
+POE_23,The Ballad of the White Horse,"Chesterton, G. K. (Gilbert Keith)",https://www.gutenberg.org/ebooks/1719,1999
+DRA_34,Phaedra,"Racine, Jean",https://www.gutenberg.org/ebooks/1977,1999
+FIC_199,The Mill on the Floss,"Eliot, George",https://www.gutenberg.org/ebooks/6688,2004
+FIC_200,Lord Jim,"Conrad, Joseph",https://www.gutenberg.org/ebooks/5658,2006
+FIC_201,The Piazza Tales,"Melville, Herman",https://www.gutenberg.org/ebooks/15859,2005
+FIC_202,A Christmas Carol,"Dickens, Charles",https://www.gutenberg.org/ebooks/19337,2006
+POE_24,A Shropshire Lad,"Housman, A. E. (Alfred Edward)",https://www.gutenberg.org/ebooks/5720,2004
+PHI_20,"The Will to Believe, and Other Essays in Popular Philosophy","James, William",https://www.gutenberg.org/ebooks/26659,2009
+FIC_203,Love and Freindship [sic],"Austen, Jane",https://www.gutenberg.org/ebooks/1212,1998
+DRA_35,Oedipus King of Thebes: Translated into English Rhyming Verse with Explanatory Notes,Sophocles,https://www.gutenberg.org/ebooks/27673,2008
+MYT_2,Myths of the Norsemen: From the Eddas and Sagas,"Guerber, H. A. (Helene Adeline)",https://www.gutenberg.org/ebooks/28497,2009
+MYT_3,The Golden Bough: A Study of Magic and Religion,"Frazer, James George",https://www.gutenberg.org/ebooks/3623,2003
+DRA_36,Romeo and Juliet,"Shakespeare, William",https://www.gutenberg.org/ebooks/1513,1597
+HUM_3,"The Man with Two Left Feet, and Other Stories","Wodehouse, P. G. (Pelham Grenville)",https://www.gutenberg.org/ebooks/7471,2005
+FIC_204,Sense and Sensibility,"Austen, Jane",https://www.gutenberg.org/ebooks/21839,2007
+ENG_37,Fairy Tales of Hans Christian Andersen,"Andersen, H. C. (Hans Christian)",https://www.gutenberg.org/ebooks/27200,2008
+HIS_15,Illustrated History of Furniture: From the Earliest to the Present Time,"Litchfield, Frederick",https://www.gutenberg.org/ebooks/12254,2004
+FIC_205,The Gods of Mars,"Burroughs, Edgar Rice",https://www.gutenberg.org/ebooks/64,2008
+BIO_26,My Own Story,"Pankhurst, Emmeline",https://www.gutenberg.org/ebooks/34856,2011
+DRA_37,Salomé: A Tragedy in One Act,"Wilde, Oscar",https://www.gutenberg.org/ebooks/42704,2013
+FIC_206,His Last Bow: An Epilogue of Sherlock Holmes,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/2350,2000
+PHI_21,Mysticism and Logic and Other Essays,"Russell, Bertrand",https://www.gutenberg.org/ebooks/25447,2008
+HIS_16,"The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2): Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain.","Diaz del Castillo, Bernal",https://www.gutenberg.org/ebooks/32474,2010
+HIS_17,Anabasis,Xenophon,https://www.gutenberg.org/ebooks/1170,1998
+MYT_4,"The Younger Edda; Also called Snorre's Edda, or The Prose Edda",Snorri Sturluson,https://www.gutenberg.org/ebooks/18947,2006
+FIC_14,The Works of Edgar Allan Poe — Volume 4,"Poe, Edgar Allan",https://www.gutenberg.org/ebooks/2150,2008
+FIC_207,The Mysteries of Udolpho,"Radcliffe, Ann Ward",https://www.gutenberg.org/ebooks/3268,2002
+HIS_18,The Declaration of Independence of the United States of America,"Jefferson, Thomas",https://www.gutenberg.org/ebooks/1,1776
+FIC_208,Anne's House of Dreams,"Montgomery, L. M. (Lucy Maud)",https://www.gutenberg.org/ebooks/544,1996
+ART_5,The Romance of Tristan and Iseult,"Bedier, Joseph",https://www.gutenberg.org/ebooks/14244,2004
+FIC_209,Lady Susan,"Austen, Jane",https://www.gutenberg.org/ebooks/946,1997
+FIC_210,The Return of the Native,"Hardy, Thomas",https://www.gutenberg.org/ebooks/122,2006
+ART_6,Idylls of the King,"Tennyson, Alfred Tennyson, Baron",https://www.gutenberg.org/ebooks/610,1996
+POE_25,Beowulf,Unknown,https://www.gutenberg.org/ebooks/981,1997
+ENG_38,"Tartuffe; Or, The Hypocrite",Moliere,https://www.gutenberg.org/ebooks/2027,2000
+FIC_15,Beyond Lies the Wub,"Dick, Philip K.",https://www.gutenberg.org/ebooks/28554,2009
+HIS_19,A Text-Book of the History of Painting,"Van Dyke, John Charles",https://www.gutenberg.org/ebooks/18900,2006
+FIC_211,Tales of the Jazz Age,"Fitzgerald, F. Scott (Francis Scott)",https://www.gutenberg.org/ebooks/6695,2004
+FIC_212,Lady Audley's Secret,"Braddon, M. E. (Mary Elizabeth)",https://www.gutenberg.org/ebooks/8954,2005
+FIC_213,Far from the Madding Crowd,"Hardy, Thomas",https://www.gutenberg.org/ebooks/107,1994
+DRA_38,The Tragedy of King Lear,"Shakespeare, William",https://www.gutenberg.org/ebooks/1128,1608
+MYT_5,Myths of Babylonia and Assyria,"Mackenzie, Donald A. (Donald Alexander)",https://www.gutenberg.org/ebooks/16653,2005
+FIC_214,Dead Souls,"Gogol, Nikolai Vasilevich",https://www.gutenberg.org/ebooks/1081,1997
+FIC_215,Doctor Thorne,"Trollope, Anthony",https://www.gutenberg.org/ebooks/3166,2002
+FIC_216,The Return of Sherlock Holmes,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/221,2008
+FIC_217,Dombey and Son,"Dickens, Charles",https://www.gutenberg.org/ebooks/821,1997
+HIS_20,"History of Egypt, Chaldea, Syria, Babylonia, and Assyria in the Light of Recent Discovery","King, L. W. (Leonard William)",https://www.gutenberg.org/ebooks/17321,2005
+PHI_22,"The Tao Teh King, or the Tao and its Characteristics",Laozi,https://www.gutenberg.org/ebooks/216,1995
+FAN_7,Alice's Abenteuer im Wunderland,"Carroll, Lewis",https://www.gutenberg.org/ebooks/19778,2007
+FIC_218,The Variable Man,"Dick, Philip K.",https://www.gutenberg.org/ebooks/32154,2010
+FIC_219,Warlord of Mars,"Burroughs, Edgar Rice",https://www.gutenberg.org/ebooks/68,1993
+ENG_39,English Synonyms and Antonyms: With Notes on the Correct Use of Prepositions,"Fernald, James Champlin",https://www.gutenberg.org/ebooks/28900,2009
+FIC_16,The Big Trip Up Yonder,"Vonnegut, Kurt",https://www.gutenberg.org/ebooks/30240,2009
+FIC_220,"The Life and Amours of the Beautiful, Gay and Dashing Kate Percival: The Belle of the Delaware","Percival, Kate",https://www.gutenberg.org/ebooks/29827,2009
+CLA_2,Meno,Plato,https://www.gutenberg.org/ebooks/1643,1999
+PHI_23,Laughter: An Essay on the Meaning of the Comic,"Bergson, Henri",https://www.gutenberg.org/ebooks/4352,2003
+HIS_21,"The History of Rome, Books 01 to 08",Livy,https://www.gutenberg.org/ebooks/19725,2006
+FIC_221,"Looking Backward, 2000 to 1887","Bellamy, Edward",https://www.gutenberg.org/ebooks/624,1996
+ENG_40,The Art Of Writing & Speaking The English Language: Word-Study and Composition & Rhetoric,"Cody, Sherwin",https://www.gutenberg.org/ebooks/19719,2006
+FIC_222,Heidi: (Gift Edition),"Spyri, Johanna",https://www.gutenberg.org/ebooks/20781,2007
+FIC_223,The Fortunes and Misfortunes of the Famous Moll Flanders,"Defoe, Daniel",https://www.gutenberg.org/ebooks/370,2008
+DRA_39,The School for Scandal,"Sheridan, Richard Brinsley",https://www.gutenberg.org/ebooks/1929,1999
+ART_7,Four Arthurian Romances,"Chretien, de Troyes, active 12th century",https://www.gutenberg.org/ebooks/831,1997
+FIC_224,Twice Told Tales,"Hawthorne, Nathaniel",https://www.gutenberg.org/ebooks/13707,2004
+BIO_27,"Slave Narratives: A Folk History of Slavery in the United States From Interviews with Former Slaves: Volume I, Alabama Narratives",United States. Work Projects Administration,https://www.gutenberg.org/ebooks/36020,2011
+FIC_225,Nostromo: A Tale of the Seaboard,"Conrad, Joseph",https://www.gutenberg.org/ebooks/2021,2006
+FIC_226,McTeague: A Story of San Francisco,"Norris, Frank",https://www.gutenberg.org/ebooks/165,2006
+DRA_40,The Taming of the Shrew,"Shakespeare, William",https://www.gutenberg.org/ebooks/1107,1590
+FIC_227,Sons and Lovers,"Lawrence, D. H. (David Herbert)",https://www.gutenberg.org/ebooks/217,2006
+FIC_228,"The History of Don Quixote, Volume 2, Complete","Cervantes Saavedra, Miguel de",https://www.gutenberg.org/ebooks/5946,2004
+FIC_229,Les misérables Tome I: Fantine,"Hugo, Victor",https://www.gutenberg.org/ebooks/17489,2006
+BIO_28,Jesus the Christ: A Study of the Messiah and His Mission According to Holy; Scriptures Both Ancient and Modern,"Talmage, James E. (James Edward)",https://www.gutenberg.org/ebooks/22542,2007
+FIC_230,The Sea-Wolf,"London, Jack",https://www.gutenberg.org/ebooks/1074,2010
+FIC_231,Babbitt,"Lewis, Sinclair",https://www.gutenberg.org/ebooks/1156,2006
+FIC_232,The Last Man,"Shelley, Mary Wollstonecraft",https://www.gutenberg.org/ebooks/18247,2006
+FIC_233,The Wind in the Willows,"Grahame, Kenneth",https://www.gutenberg.org/ebooks/27805,2009
+FIC_234,"Frankenstein; Or, The Modern Prometheus","Shelley, Mary Wollstonecraft",https://www.gutenberg.org/ebooks/41445,2012
+BIO_29,Memoirs of General William T. Sherman — Complete,"Sherman, William T. (William Tecumseh)",https://www.gutenberg.org/ebooks/4361,2006
+FIC_17,The Tenniel Illustrations for Carroll's Alice in Wonderland,"Tenniel, John",https://www.gutenberg.org/ebooks/114,2008
+ECO_2,"Principles Of Political Economy: Abridged with Critical, Bibliographical, and Explanatory Notes, and a Sketch of the History of Political Economy","Mill, John Stuart",https://www.gutenberg.org/ebooks/30107,2009
+ENG_41,All Things Considered,"Chesterton, G. K. (Gilbert Keith)",https://www.gutenberg.org/ebooks/11505,2004
+POE_26,Le roman de la rose - Tome I,"Guillaume, de Lorris, active 1230",https://www.gutenberg.org/ebooks/16816,2005
+DRA_41,The Merchant of Venice,"Shakespeare, William",https://www.gutenberg.org/ebooks/2243,1623
+FIC_235,Là-bas,"Huysmans, J.-K. (Joris-Karl)",https://www.gutenberg.org/ebooks/14323,2004
+ENG_42,The Way of the World,"Congreve, William",https://www.gutenberg.org/ebooks/1292,2015
+FIC_236,The Forsyte Saga - Complete,"Galsworthy, John",https://www.gutenberg.org/ebooks/4397,2006
+DRA_42,The Jew of Malta,"Marlowe, Christopher",https://www.gutenberg.org/ebooks/901,1997
+FIC_18,The House on the Borderland,"Hodgson, William Hope",https://www.gutenberg.org/ebooks/10002,2003
+DRA_43,Major Barbara,"Shaw, Bernard",https://www.gutenberg.org/ebooks/3790,2003
+ENG_43,The Song of Roland,Unknown,https://www.gutenberg.org/ebooks/391,1996
+DRA_44,Life Is a Dream,"Calderon de la Barca, Pedro",https://www.gutenberg.org/ebooks/2587,2006
+FIC_237,The Marvelous Land of Oz,"Baum, L. Frank (Lyman Frank)",https://www.gutenberg.org/ebooks/54,1993
+FIC_238,The Wisdom of Father Brown,"Chesterton, G. K. (Gilbert Keith)",https://www.gutenberg.org/ebooks/223,1995
+FIC_19,Astounding Stories of Super-Science January 1930,Unknown,https://www.gutenberg.org/ebooks/41481,2012
+ENG_44,A First Spanish Reader,"Roessler, Erwin W. (Erwin William)",https://www.gutenberg.org/ebooks/15353,2005
+HIS_22,"The Essays of ""George Eliot"": Complete","Eliot, George",https://www.gutenberg.org/ebooks/28289,2009
+CLA_3,Phaedrus,Plato,https://www.gutenberg.org/ebooks/1636,1999
+FIC_20,Pollyanna,"Porter, Eleanor H. (Eleanor Hodgman)",https://www.gutenberg.org/ebooks/1450,1998
+FIC_239,The Good Soldier,"Ford, Ford Madox",https://www.gutenberg.org/ebooks/2775,2001
+FIC_240,The Old Curiosity Shop,"Dickens, Charles",https://www.gutenberg.org/ebooks/700,2008
+DRA_45,Man and Superman: A Comedy and a Philosophy,"Shaw, Bernard",https://www.gutenberg.org/ebooks/3328,2006
+FRE_1,Madame Bovary,"Flaubert, Gustave",https://www.gutenberg.org/ebooks/14155,2004
+FIC_21,The Princess and the Goblin,"MacDonald, George",https://www.gutenberg.org/ebooks/708,1996
+POE_27,The Odyssey,Homer,https://www.gutenberg.org/ebooks/3160,2002
+FIC_241,Stories from Tagore,"Tagore, Rabindranath",https://www.gutenberg.org/ebooks/33525,2010
+ENG_45,"The Divine Comedy by Dante, Illustrated, Purgatory, Complete",Dante Alighieri,https://www.gutenberg.org/ebooks/8795,2004
+FIC_242,The Second Jungle Book,"Kipling, Rudyard",https://www.gutenberg.org/ebooks/1937,1999
+FIC_243,The Hound of the Baskervilles,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/3070,2002
+BIO_30,Plutarch: Lives of the noble Grecians and Romans,Plutarch,https://www.gutenberg.org/ebooks/674,1517
+POE_28,The Iliad of Homer: Translated into English Blank Verse by William Cowper,Homer,https://www.gutenberg.org/ebooks/16452,2005
+HIS_23,Fifty Famous Stories Retold,"Baldwin, James",https://www.gutenberg.org/ebooks/18442,2006
+ENG_46,"""Everyman,"" with other interludes, including eight miracle plays",Unknown,https://www.gutenberg.org/ebooks/19481,2006
+FIC_244,The Lock and Key Library: Classic Mystery and Detective Stories: Modern English,Unknown,https://www.gutenberg.org/ebooks/2038,2005
+FIC_22,"White Nights and Other Stories: The Novels of Fyodor Dostoevsky, Volume X","Dostoyevsky, Fyodor",https://www.gutenberg.org/ebooks/36034,2011
+FIC_245,The Satyricon — Volume 02: Dinner of Trimalchio,Petronius Arbiter,https://www.gutenberg.org/ebooks/5219,2004
+FIC_246,The Complete Project Gutenberg Works of Jane Austen: A Linked Index of all PG Editions of Jane Austen,"Austen, Jane",https://www.gutenberg.org/ebooks/31100,2010
+POE_29,Poems,"Rilke, Rainer Maria",https://www.gutenberg.org/ebooks/38594,2012
+PHI_24,The Life of Reason: The Phases of Human Progress,"Santayana, George",https://www.gutenberg.org/ebooks/15000,2005
+FIC_247,Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World,"Verne, Jules",https://www.gutenberg.org/ebooks/2488,1870
+DRA_46,Tamburlaine the Great — Part 1,"Marlowe, Christopher",https://www.gutenberg.org/ebooks/1094,1997
+DRA_47,The Master Builder,"Ibsen, Henrik",https://www.gutenberg.org/ebooks/4070,2003
+DRA_48,A Doll's House,"Ibsen, Henrik",https://www.gutenberg.org/ebooks/15492,2005
+FIC_248,Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh,"Carlyle, Thomas",https://www.gutenberg.org/ebooks/1051,1997
+BIO_31,Autobiography of Andrew Carnegie,"Carnegie, Andrew",https://www.gutenberg.org/ebooks/17976,2006
+FIC_249,The Virginian: A Horseman of the Plains,"Wister, Owen",https://www.gutenberg.org/ebooks/1298,1998
+BIO_32,The Germany and the Agricola of Tacitus,"Tacitus, Cornelius",https://www.gutenberg.org/ebooks/7524,2005
+SCI_15,Common Sense,"Paine, Thomas",https://www.gutenberg.org/ebooks/3755,2003
+FIC_250,The Beautiful and Damned,"Fitzgerald, F. Scott (Francis Scott)",https://www.gutenberg.org/ebooks/9830,2006
+FIC_251,The Picture of Dorian Gray,"Wilde, Oscar",https://www.gutenberg.org/ebooks/4078,2003
+FIC_252,The Gift of the Magi,"Henry, O.",https://www.gutenberg.org/ebooks/7256,2005
+FIC_253,Of Human Bondage,"Maugham, W. Somerset (William Somerset)",https://www.gutenberg.org/ebooks/351,2008
+ENG_47,French Mediaeval Romances from the Lays of Marie de France,"Marie, Queen of Rumania",https://www.gutenberg.org/ebooks/11417,2004
+FIC_23,Against the Grain,"Huysmans, J.-K. (Joris-Karl)",https://www.gutenberg.org/ebooks/12341,2004
+ENG_48,Browning's Shorter Poems,"Browning, Robert",https://www.gutenberg.org/ebooks/16376,2005
+FIC_254,Mr. Spaceship,"Dick, Philip K.",https://www.gutenberg.org/ebooks/32522,2010
+FIC_255,Captain Blood,"Sabatini, Rafael",https://www.gutenberg.org/ebooks/1965,1999
+HIS_24,The Voyage of the Beagle,"Darwin, Charles",https://www.gutenberg.org/ebooks/944,1997
+FIC_256,Howards End,"Forster, E. M. (Edward Morgan)",https://www.gutenberg.org/ebooks/2891,2001
+ENG_49,Modern Essays,Unknown,https://www.gutenberg.org/ebooks/38280,2011
+ENG_50,"The Essays or Counsels, Civil and Moral","Bacon, Francis",https://www.gutenberg.org/ebooks/575,1996
+FIC_257,The Sketch-Book of Geoffrey Crayon,"Irving, Washington",https://www.gutenberg.org/ebooks/2048,2000
+DRA_49,"Hamlet, Prince of Denmark","Shakespeare, William",https://www.gutenberg.org/ebooks/27761,2009
+FIC_24,The Night Land,"Hodgson, William Hope",https://www.gutenberg.org/ebooks/10662,2004
+FIC_25,Three Ghost Stories,"Dickens, Charles",https://www.gutenberg.org/ebooks/1289,2013
+FIC_258,The Skull,"Dick, Philip K.",https://www.gutenberg.org/ebooks/30255,2009
+FIC_259,The Voyage Out,"Woolf, Virginia",https://www.gutenberg.org/ebooks/144,2006
+FIC_260,The Golden Asse,Apuleius,https://www.gutenberg.org/ebooks/1666,2006
+FIC_261,Night and Day,"Woolf, Virginia",https://www.gutenberg.org/ebooks/1245,1998
+FIC_262,The Scarlet Letter,"Hawthorne, Nathaniel",https://www.gutenberg.org/ebooks/25344,2008
+FIC_263,The Mystery of the Yellow Room,"Leroux, Gaston",https://www.gutenberg.org/ebooks/1685,1999
+HIS_25,"""De Bello Gallico"" and Other Commentaries","Caesar, Julius",https://www.gutenberg.org/ebooks/10657,2004
+MYT_6,Myths & Legends of the Celtic Race,"Rolleston, T. W. (Thomas William)",https://www.gutenberg.org/ebooks/34081,2010
+HAN_3,The 2010 CIA World Factbook,United States. Central Intelligence Agency,https://www.gutenberg.org/ebooks/35830,2011
+DRA_50,The Inspector-General,"Gogol, Nikolai Vasilevich",https://www.gutenberg.org/ebooks/3735,2003
+FIC_264,"The Garden Party, and Other Stories","Mansfield, Katherine",https://www.gutenberg.org/ebooks/1429,1998
+FIC_265,Micromegas,Voltaire,https://www.gutenberg.org/ebooks/30123,2009
+FIC_266,Platero y yo,"Jimenez, Juan Ramon",https://www.gutenberg.org/ebooks/9980,2006
+PHI_25,The Analects of Confucius (from the Chinese Classics),Confucius,https://www.gutenberg.org/ebooks/3330,2002
+FIC_267,The Ambassadors,"James, Henry",https://www.gutenberg.org/ebooks/432,1996
+FIC_268,"Hung Lou Meng, or, the Dream of the Red Chamber, a Chinese Novel, Book I","Cao, Xueqin",https://www.gutenberg.org/ebooks/9603,2006
+FIC_269,The Red House Mystery,"Milne, A. A. (Alan Alexander)",https://www.gutenberg.org/ebooks/1872,1999
+FIC_270,The Mystery of Edwin Drood,"Dickens, Charles",https://www.gutenberg.org/ebooks/564,2010
+FIC_271,Theresa Raquin,"Zola, Emile",https://www.gutenberg.org/ebooks/6626,2006
+FIC_272,The Prisoner of Zenda,"Hope, Anthony",https://www.gutenberg.org/ebooks/95,2006
+FIC_273,The Swiss Family Robinson; or Adventures in a Desert Island,"Wyss, Johann David",https://www.gutenberg.org/ebooks/11703,2004
+FIC_274,Gulliver's Travels into Several Remote Regions of the World,"Swift, Jonathan",https://www.gutenberg.org/ebooks/17157,2005
+FIC_275,Little Men,"Alcott, Louisa May",https://www.gutenberg.org/ebooks/2788,2001
+FIC_276,Clarissa Harlowe; or the history of a young lady — Volume 1,"Richardson, Samuel",https://www.gutenberg.org/ebooks/9296,2005
+FIC_277,Flappers and Philosophers,"Fitzgerald, F. Scott (Francis Scott)",https://www.gutenberg.org/ebooks/4368,2003
+PHI_26,Euthyphro,Plato,https://www.gutenberg.org/ebooks/1642,1999
+POE_30,"Hesiod, the Homeric Hymns, and Homerica",Hesiod,https://www.gutenberg.org/ebooks/348,2008
+SCI_16,The Writings of Thomas Paine — Volume 2 (1779-1792): The Rights of Man,"Paine, Thomas",https://www.gutenberg.org/ebooks/3742,2003
+FIC_278,The Secret Sharer,"Conrad, Joseph",https://www.gutenberg.org/ebooks/220,1995
+FIC_279,"The Luck of Roaring Camp and Other Tales: With Condensed Novels, Spanish and American Legends, and Earlier Papers","Harte, Bret",https://www.gutenberg.org/ebooks/6373,2004
+SOC_2,The Soul of Man under Socialism,"Wilde, Oscar",https://www.gutenberg.org/ebooks/1017,2014
+HIS_26,The French Revolution: A History,"Carlyle, Thomas",https://www.gutenberg.org/ebooks/1301,2006
+FIC_280,O Pioneers!,"Cather, Willa",https://www.gutenberg.org/ebooks/24,1992
+ART_8,The Lady of the Lake,"Scott, Walter",https://www.gutenberg.org/ebooks/3011,2002
+POE_31,Les Fleurs du Mal,"Baudelaire, Charles",https://www.gutenberg.org/ebooks/6099,2004
+SCI_17,The Art of War,"Sunzi, active 6th century B.C.",https://www.gutenberg.org/ebooks/17405,2005
+FIC_281,Sketches New and Old,"Twain, Mark",https://www.gutenberg.org/ebooks/3189,2002
+PHI_27,Hegel's Philosophy of Mind,"Hegel, Georg Wilhelm Friedrich",https://www.gutenberg.org/ebooks/39064,2012
+POE_32,The Madman: His Parables and Poems,"Gibran, Kahlil",https://www.gutenberg.org/ebooks/5616,2004
+BIO_33,Nicolo Paganini: His Life and Work,"Stratton, Stephen S. (Stephen Samuel)",https://www.gutenberg.org/ebooks/39571,2012
+DRA_51,The Imaginary Invalid,Moliere,https://www.gutenberg.org/ebooks/9070,2003
+FIC_26,Rilla of Ingleside,"Montgomery, L. M. (Lucy Maud)",https://www.gutenberg.org/ebooks/3796,2003
+FIC_27,The Tale of Benjamin Bunny,"Potter, Beatrix",https://www.gutenberg.org/ebooks/14407,2004
+SCI_18,Laws,Plato,https://www.gutenberg.org/ebooks/1750,1999
+FIC_282,The Autobiography of an Ex-Colored Man,"Johnson, James Weldon",https://www.gutenberg.org/ebooks/11012,2004
+FAN_8,The Complete Poetical Works of Edgar Allan Poe: Including Essays on Poetry,"Poe, Edgar Allan",https://www.gutenberg.org/ebooks/10031,2003
+FIC_283,The Diary of a Nobody,"Grossmith, Weedon",https://www.gutenberg.org/ebooks/1026,2011
+HIS_27,Bradford's History of 'Plimoth Plantation': From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts,"Bradford, William",https://www.gutenberg.org/ebooks/24950,2008
+FIC_284,Uncle Remus and Brer Rabbit,"Harris, Joel Chandler",https://www.gutenberg.org/ebooks/22282,2007
+ENG_51,The Rubaiyat of Omar Khayyam,Omar Khayyam,https://www.gutenberg.org/ebooks/246,1995
+ENG_52,A Dictionary of Cebuano Visayan,"Wolff, John U.",https://www.gutenberg.org/ebooks/40074,2012
+ENG_53,Tales of Terror and Mystery,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/537,1996
+FIC_285,Martin Eden,"London, Jack",https://www.gutenberg.org/ebooks/1056,2004
+DRA_52,The Tragical History of Doctor Faustus: From the Quarto of 1616,"Marlowe, Christopher",https://www.gutenberg.org/ebooks/811,1997
+FIC_286,Four Weird Tales,"Blackwood, Algernon",https://www.gutenberg.org/ebooks/16726,2005
+BIO_34,"The History of Mary Prince, a West Indian Slave","Prince, Mary",https://www.gutenberg.org/ebooks/17851,2006
+FIC_287,Mary Barton,"Gaskell, Elizabeth Cleghorn",https://www.gutenberg.org/ebooks/2153,1848
+FIC_288,"The Little White Bird; Or, Adventures in Kensington Gardens","Barrie, J. M. (James Matthew)",https://www.gutenberg.org/ebooks/1376,1998
+PHI_28,The Critique of Practical Reason,"Kant, Immanuel",https://www.gutenberg.org/ebooks/5683,2004
+ENG_54,The Poetical Works of John Milton,"Milton, John",https://www.gutenberg.org/ebooks/1745,1999
+POE_33,The Complete Poems of Paul Laurence Dunbar,"Dunbar, Paul Laurence",https://www.gutenberg.org/ebooks/18338,2006
+ENG_55,The Flowers of Evil,"Baudelaire, Charles",https://www.gutenberg.org/ebooks/36098,2011
+DRA_53,Woyzeck,"Buchner, Georg",https://www.gutenberg.org/ebooks/5322,2004
+FIC_289,Die Leiden des jungen Werther — Band 1,"Goethe, Johann Wolfgang von",https://www.gutenberg.org/ebooks/2407,1774
+BIO_35,The Zen Experience,"Hoover, Thomas",https://www.gutenberg.org/ebooks/34325,2010
+FIC_28,The Hanging Stranger,"Dick, Philip K.",https://www.gutenberg.org/ebooks/41562,2012
+FIC_29,The Coral Island: A Tale of the Pacific Ocean,"Ballantyne, R. M. (Robert Michael)",https://www.gutenberg.org/ebooks/646,2007
+FIC_290,The World Set Free,"Wells, H. G. (Herbert George)",https://www.gutenberg.org/ebooks/1059,2006
+MYT_7,The Religion of the Ancient Celts,"MacCulloch, J. A. (John Arnott)",https://www.gutenberg.org/ebooks/14672,2005
+FIC_291,Short Stories,"Dostoyevsky, Fyodor",https://www.gutenberg.org/ebooks/40745,2012
+FIC_292,Wives and Daughters,"Gaskell, Elizabeth Cleghorn",https://www.gutenberg.org/ebooks/4274,2001
+POE_34,A Defence of Poetry and Other Essays,"Shelley, Percy Bysshe",https://www.gutenberg.org/ebooks/5428,2004
+FIC_293,Hunger,"Hamsun, Knut",https://www.gutenberg.org/ebooks/8387,2005
+FIC_294,The Return of Tarzan,"Burroughs, Edgar Rice",https://www.gutenberg.org/ebooks/81,2008
+POE_35,Prufrock and Other Observations,"Eliot, T. S. (Thomas Stearns)",https://www.gutenberg.org/ebooks/1459,1998
+ENG_56,The Divine Comedy of Dante Alighieri: The Inferno,Dante Alighieri,https://www.gutenberg.org/ebooks/41537,2012
+MYT_8,The Elder Eddas of Saemund Sigfusson; and the Younger Eddas of Snorre Sturleson,Snorri Sturluson,https://www.gutenberg.org/ebooks/14726,2005
+FIC_30,The Crystal Crypt,"Dick, Philip K.",https://www.gutenberg.org/ebooks/28698,2009
+ENG_57,The Gardener,"Tagore, Rabindranath",https://www.gutenberg.org/ebooks/6686,2004
+FIC_295,The Kreutzer Sonata and Other Stories,"Tolstoy, Leo, graf",https://www.gutenberg.org/ebooks/689,2006
+FIC_296,The Jolly Corner,"James, Henry",https://www.gutenberg.org/ebooks/1190,2005
+FIC_31,"The Door in the Wall, and Other Stories","Wells, H. G. (Herbert George)",https://www.gutenberg.org/ebooks/456,2005
+BIO_36,"Plutarch's Lives, Volume I",Plutarch,https://www.gutenberg.org/ebooks/14033,2004
+FIC_297,"Le comte de Monte-Cristo, Tome I","Dumas, Alexandre",https://www.gutenberg.org/ebooks/17989,2006
+FIC_298,"Rasselas, Prince of Abyssinia","Johnson, Samuel",https://www.gutenberg.org/ebooks/652,2013
+CLA_4,The Argonautica,"Apollonius, Rhodius",https://www.gutenberg.org/ebooks/830,1997
+ENG_58,The Works of Aphra Behn: Volume V,"Behn, Aphra",https://www.gutenberg.org/ebooks/29854,2009
+DRA_54,King Richard III,"Shakespeare, William",https://www.gutenberg.org/ebooks/1103,1997
+FIC_299,The Adventure of the Cardboard Box,"Doyle, Arthur Conan",https://www.gutenberg.org/ebooks/2344,2000
+FIC_300,The Moon and Sixpence,"Maugham, W. Somerset (William Somerset)",https://www.gutenberg.org/ebooks/222,2007
+ENG_59,Moby Word Lists,"Ward, Grady",https://www.gutenberg.org/ebooks/3201,2002
+DRA_55,Riders to the Sea,"Synge, J. M. (John Millington)",https://www.gutenberg.org/ebooks/994,2008
+HIS_28,"Ancient and Modern Ships, Part 1: Wooden Sailing Ships","Holmes, George Charles Vincent, Sir",https://www.gutenberg.org/ebooks/33098,2010
+ENG_60,The New Life (La Vita Nuova),Dante Alighieri,https://www.gutenberg.org/ebooks/41085,2012
+DRA_56,As You Like It,"Shakespeare, William",https://www.gutenberg.org/ebooks/1121,1997
+POE_36,Aeneidos,Virgil,https://www.gutenberg.org/ebooks/227,2008
+ENG_61,The St. Gregory Hymnal and Catholic Choir Book,Unknown,https://www.gutenberg.org/ebooks/23673,2007
+ENG_62,Ghost Stories of an Antiquary,"James, M. R. (Montague Rhodes)",https://www.gutenberg.org/ebooks/8486,2005
+FIC_301,Martin Chuzzlewit,"Dickens, Charles",https://www.gutenberg.org/ebooks/968,2006
+POE_37,The Ballad of Reading Gaol,"Wilde, Oscar",https://www.gutenberg.org/ebooks/301,1995
+FIC_302,The Professor,"Bronte, Charlotte",https://www.gutenberg.org/ebooks/1028,2008
+BIO_37,"Beethoven, the Man and the Artist, as Revealed in His Own Words","Beethoven, Ludwig van",https://www.gutenberg.org/ebooks/3528,2002
+FIC_303,Triplanetary,"Smith, E. E. (Edward Elmer)",https://www.gutenberg.org/ebooks/32706,2010
+FIC_304,Ben-Hur; a tale of the Christ,"Wallace, Lew",https://www.gutenberg.org/ebooks/2145,2000

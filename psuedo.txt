@@ -1,0 +1,30 @@
+START
+
+    output_data = []
+
+    subject_list = ["Fiction", "fiction","Fantasy", "Drama", "Biography","Humor","Handbooks","science","Art","Biology","Economics", "Poetry","Philosophy","Political","English","French","drama","History","Bible","Classical","Mythology","Socialism","African"]
+    counter_list = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+
+    class Opener():
+        INITIALISE CLASS WITH ATTRIBUTES SELF, FILE
+
+        NEW METHOD - loadFile WITH ATTRIBUTES SELF
+            OPEN file AS f:
+                bookdata = READER(f)
+                FOR EVERY ROW IN bookdata:
+                    APPEND ROW TO self.data
+
+            RETURNS self.data
+
+    class Sort():
+        INITIALISE CLASS WITH ATTRIBUTES SELF, DATA
+
+        NEW METHOD - sort WITH ATTRIBUTES SELF
+            FOR EVERY BOOK IN THE RANGE OF 1 TO THE LENGTH OF THE DATA:
+                FOR THE SUBJECT IN SUBJECT_LIST:
+
+                    IF THE SUBJECT IN DATA IS INDEX 2:
+                        index = INDEX OF SUBJECT
+                        
+
+END
