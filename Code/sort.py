@@ -1,6 +1,9 @@
 import csv # Imports the CSV module
 
 class Sort(): # Creates a Sort class
+    '''
+    This class will sort all the data into one array for the save file to use.
+    '''
     def __init__(self, data): # Initialises the class
         self.data = data
         self.output_data = [] # Creates an empty output data array
@@ -11,6 +14,12 @@ class Sort(): # Creates a Sort class
 
 
     def sort(self): # creates a method "sort"
+        '''
+        This method will get all rows in the specified file and sorts it by seeing if the subject is in the list of subjects, then it will format it. It will save it to
+        output_data
+
+        Returns: output_data
+        '''
         for book in range(1, len(self.data)): # Loops over books.csv
             for subject in self.subject_list: # Looks for subjects in subject list
             

@@ -4,6 +4,10 @@ from sort import Sort
 from save import Save
 
 class Main(): # Creates a main class
+    '''
+    The class Main will instantiate all of the methods and is what makes the program work. It will open any file a user asks, then sort it, then save it in a file who's name is
+    also decided by the user
+    '''
     def __init__(self): # Initialises it
         File = input("Enter the file name to open:\n>>> ")
         openedFile = Opener(File) # These lines open then load the file
