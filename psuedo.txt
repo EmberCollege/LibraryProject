@@ -25,6 +25,31 @@ START
 
                     IF THE SUBJECT IN DATA IS INDEX 2:
                         index = INDEX OF SUBJECT
-                        
+
+    Class Save():
+        INITIALISE CLASS WITH ATTRIBUTES SELF,SAVEFILE 
+
+        NEW METHOD - save WITH ATTRIBUTES SELF, OUTPUT_DATA 
+            OPENS FILE IN WRITE MODE 
+            REMOVE WHITESPACE 
+            WRITE TO A FILE
+            WRITE HEADERS
+            FOR ROW IN OUTPUT_DATA 
+                WRITE ROW
+            ENDFOR
+
+    Class Main():
+        INITIALISE CLASS WITH ATTRIBUTES SELF 
+
+        INPUT file
+        OPENER OPENS file
+        SAVE FILE TO data
+
+        SORTER SORTS data
+        SAVE SORTED DATA TO sorteddata
+
+        INPUT saveFile
+        RUN SAVE METHOD
+        SAVE THE DATA   
 
 END
