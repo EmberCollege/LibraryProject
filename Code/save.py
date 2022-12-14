@@ -19,4 +19,4 @@ class Save(): # Creates a class called Save
             for row in output_data: 
                 writer.writerow(row) # Writes all the data
 
-        print("FIle saved as '" + self.saveFile + "'")
+        print("File saved as '" + self.saveFile + "'")
