@@ -20,6 +20,9 @@ class Sort(): # Creates a Sort class
 
         Returns: output_data
         '''
+
+        print("Starting sort...")
+
         for book in range(1, len(self.data)): # Loops over books.csv
             for subject in self.subject_list: # Looks for subjects in subject list
             
@@ -35,4 +38,7 @@ class Sort(): # Creates a Sort class
                     self.output_data.append(row) # Appends the rows to output_data
                     break
         
+
+        print("Sort Complete..")
+
         return self.output_data

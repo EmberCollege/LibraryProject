@@ -18,3 +18,5 @@ class Save(): # Creates a class called Save
             writer.writerow(["Code", "Tile", "Author", "URL", "Year"]) # Writes the header
             for row in output_data: 
                 writer.writerow(row) # Writes all the data
+
+        print("FIle saved as '" + self.saveFile + "'")
