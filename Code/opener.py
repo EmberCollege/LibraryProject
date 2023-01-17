@@ -20,3 +20,5 @@ class Opener(): # Creates an Opener class
                 self.data.append(row) # Makes into a list of data for the sorter to use
 
         return self.data
+
+# Stupid
