@@ -1,5 +1,3 @@
-'''HEY WORLD'''
-
 # These all import modules from other files which abstracts away complications.
 from opener import Opener 
 from sort import Sort
